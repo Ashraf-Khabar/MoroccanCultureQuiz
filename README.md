@@ -28,7 +28,7 @@ git clone https://github.com/YOURUSERNAME/MoroccanCultureQuiz.git
 
 ## Authors
 
-- **KHABAR ACHRAF** - *Initial work* - [ACHRAF KHABAR](https://github.com/Ashraf-Khabar)
+- <img src="https://img.shields.io/badge/Made%20by-Ashraf%20Khabar-blue" alt="made by Ashraf Khabar"> - [ACHRAF KHABAR](https://github.com/Ashraf-Khabar)
 
 ## License
 
