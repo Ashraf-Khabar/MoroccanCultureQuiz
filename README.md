@@ -8,7 +8,7 @@ A mobile app built using Java and XML that offers a fun and educational way to l
 
 <p align="center">
   <a href="https://nodejs.org/en/"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" height="70"></a>
-  <a href="https://expressjs.com"> <img src="[https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png](https://seeklogo.com/images/X/xml-logo-58BFD10607-seeklogo.com.png)" alt="xml" height="70"></a>
+  <a href="[https://expressjs.com](https://www.w3schools.com/xml/xml_whatis.asp)"> <img src="https://i.pinimg.com/originals/50/05/4d/50054d9bbc6205dd8ea4f130b35e8dca.png" alt="xml" height="70"></a>
   <a href="https://reactjs.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="Android studio" height="70"></a>
  </p>
 
