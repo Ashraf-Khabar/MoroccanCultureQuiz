@@ -1,4 +1,4 @@
-- <img src="https://img.shields.io/badge/Made%20by-Ashraf%20Khabar-blue" alt="made by Ashraf Khabar"> - [ACHRAF KHABAR](https://github.com/Ashraf-Khabar)
+<img src="https://img.shields.io/badge/Made%20by-Ashraf%20Khabar-blue" alt="made by Ashraf Khabar"> - [ACHRAF KHABAR](https://github.com/Ashraf-Khabar)
 # MoroccanCultureQuiz
 
 A mobile app built using Java and XML that offers a fun and educational way to learn about Moroccan history through a series of quizzes. The app displays the user's score at the end of each quiz and provides a glimpse into the rich cultural heritage of Morocco.
@@ -8,7 +8,6 @@ A mobile app built using Java and XML that offers a fun and educational way to l
   <a href="[https://expressjs.com](https://www.w3schools.com/xml/xml_whatis.asp)"> <img src="https://i.pinimg.com/originals/50/05/4d/50054d9bbc6205dd8ea4f130b35e8dca.png" alt="xml" height="70"></a>
   <a href="[https://reactjs.org](https://developer.android.com/studio?gclid=CjwKCAiA_vKeBhAdEiwAFb_nrbMH4Cw7PHuEWSTsLh98uC-yJo5QuBR_iPxu2sLfQg8pXUznqpnjARoCRScQAvD_BwE&gclsrc=aw.ds)"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="Android studio" height="70"></a>
  </p>
-
 
 ## Getting Started
 
